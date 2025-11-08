@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm i",
+  "installCommand": "npm i",
+  "outputDirectory": ".",
+  "framework": null
+}
